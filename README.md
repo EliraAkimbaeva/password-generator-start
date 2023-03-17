@@ -3,15 +3,19 @@
 # Instructions
 
 The program will ask:
-```
+
+
+Which password you are going to choose? Press A for easy and B for hard
+
+
 How many letters would you like in your password?
-```
-```
+
+
 How many symbols would you like?
-```
-```
+
+
 How many numbers would you like?
-```
+
 The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge. 
 
 # Easy Version (Step 1)
@@ -36,6 +40,4 @@ x$d24g*f9
 ```
 And every time you generate a password, the positions of the symbols, numbers, and letters are different. 
 
-# Solution
 
-[https://replit.com/@appbrewery/password-generator-end](https://replit.com/@appbrewery/password-generator-end)
